@@ -1,0 +1,15 @@
+{
+    "Title": "Arduino Code for Behavioral Experiment Control and Data Acquisition",
+    "Creator": "Deep Brain Lab, Sound and Multimedia Department, Gda\u0144sk University of Technology",
+    "Subject": "This script is integral to experiments studying learning and memory in rats. It provides real-time feedback, precise event logging, and dynamic sequence adaptation.",
+    "Description": "This Arduino script is designed for controlling behavioral experiments involving rats. It manages LED-based guidance, sequence learning, reward systems, and button press detection for memory tasks. The code integrates features such as:\n- Multi-step reward dispensing mechanisms.\n- Configuration for multiple experimental protocols (e.g., early training, sequence learning, retrieval).\nThe script interacts with hardware components like DotStar LEDs and buttons to provide dynamic visual guidance and reward signaling.",
+    "Publisher": "Deep Brain Lab, Sound and Multimedia Department, Gda\u0144sk University of Technology",
+    "Contributor": "www.deepbrainlab.com",
+    "Date": "2025-01-10",
+    "Type": "Dataset",
+    "Format": "C++/Arduino Script",
+    "Identifier": "To be assigned",
+    "Source": "",
+    "Language": "English",
+    "Rights": "CC-BY 4.0 (Open License)"
+}
