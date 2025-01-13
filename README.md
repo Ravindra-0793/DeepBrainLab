@@ -11,7 +11,7 @@ Welcome to the **DeepBrainLab** GitHub repository. We are dedicated to developin
 
 ## About
 
-**DeepBrainLab** is part of the **Gdańsk University of Technology**, supported by the Polonez Bis 3 program, funded by the National Science Centre and the European Union. Our mission is to unravel the connection between neural activity and behavior, aiming to develop clinically relevant closed-loop brain-machine interfaces.
+**DeepBrainLab** is part of the **Multimedia Systems Department, Faculty of Electronics, Telecommunications and Informatics, Gdańsk University of Technology**, supported by the Polonez Bis 3 program, funded by the National Science Centre and the European Union. Our mission is to unravel the connection between neural activity and behavior, aiming to develop clinically relevant closed-loop brain-machine interfaces.
 
 Explore our work and learn more about our projects at [www.deepbrainlab.com](http://www.deepbrainlab.com).
 
