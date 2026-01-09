@@ -1,15 +1,15 @@
 {
-    "Title": "Raw Behavioral Data from Rat Memory Task Experiments",
-    "Creator": "Deep Brain Lab, Multimedia Department, Gda\u0144sk University of Technology",
-    "Subject": "To analyze and track behavioral performance under various memory tasks and protocols, focusing on learning and retrieval mechanisms.",
-    "Description": "This dataset contains raw behavioral data from experiments designed to track performance in memory tasks. Each file documents session details, events, timestamps, and task-specific configurations.",
-    "Publisher": "Deep Brain Lab, Sound and Multimedia Department, Politechnika Gda\u0144sk",
-    "Contributor": "Lab contact email or institutional URL",
-    "Date": "2024-11-04",
-    "Type": "Dataset",
-    "Format": "CSV (Comma-Separated Values)",
-    "Identifier": "To be assigned",
-    "Source": "To be added",
-    "Language": "English",
-    "Rights": "CC-BY 4.0 (Open License)"
+  "Title": "Raw Behavioral Event Logs from The Switchboard Test: Sequential Spatial Memory Tasks in Rats",
+  "Subject": "Behavioral neuroscience; rodent spatial and sequential memory",
+  "Format": "CSV (raw event logs)",
+  "Type": "Dataset",
+  "Source": "Primary behavioral event logs generated during The Switchboard Test experiments",
+  "Creator": "Deep Brain Lab, Multimedia Systems Department, Faculty of Electronics, Telecommunications and Informatics, Gdańsk University of Technology",
+  "Publisher": "Deep Brain Lab, Multimedia Systems Department, Gdańsk University of Technology",
+  "Contributor": "Deep Brain Lab, Multimedia Systems Department, Gdańsk University of Technology",
+  "Date": "2024-12-02",
+  "Identifier": "https://doi.org/10.6084/m9.figshare.31034230",
+  "Rights": "CC-BY 4.0",
+  "Language": "English",
+  "Relation": "Representative sample datasets hosted on Figshare"
 }

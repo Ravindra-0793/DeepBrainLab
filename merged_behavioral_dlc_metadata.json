@@ -1,9 +1,9 @@
 {
-  "Title": "Analyzed Behavioral Performance Data from The Switchboard Test",
-  "Subject": "Behavioral neuroscience; spatial and sequential memory in rodents",
-  "Format": "CSV (analyzed behavioral data)",
+  "Title": "Merged Behavioral and DeepLabCut Tracking Data from The Switchboard Test (±100 ms Alignment)",
+  "Subject": "Behavior–movement integration; multimodal neuroscience",
+  "Format": "CSV (merged behavioral and tracking data)",
   "Type": "Dataset",
-  "Source": "Derived from raw behavioral event logs generated during The Switchboard Test experiments",
+  "Source": "Derived by temporally aligning behavioral events with DeepLabCut tracking data",
   "Creator": "Deep Brain Lab, Multimedia Systems Department, Faculty of Electronics, Telecommunications and Informatics, Gdańsk University of Technology",
   "Publisher": "Deep Brain Lab, Multimedia Systems Department, Gdańsk University of Technology",
   "Contributor": "Deep Brain Lab, Multimedia Systems Department, Gdańsk University of Technology",

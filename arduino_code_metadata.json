@@ -1,15 +1,15 @@
 {
-    "Title": "Arduino Code for Behavioral Experiment Control and Data Acquisition",
-    "Creator": "Deep Brain Lab, Multimedia Department, Gda\u0144sk University of Technology",
-    "Subject": "This script is integral to experiments studying learning and memory in rats. It provides real-time feedback, precise event logging, and dynamic sequence adaptation.",
-    "Description": "This Arduino script is designed for controlling behavioral experiments involving rats. It manages LED-based guidance, sequence learning, reward systems, and button press detection for memory tasks. The code integrates features such as:\n- Multi-step reward dispensing mechanisms.\n- Configuration for multiple experimental protocols (e.g., early training, sequence learning, retrieval).\nThe script interacts with hardware components like DotStar LEDs and buttons to provide dynamic visual guidance and reward signaling.",
-    "Publisher": "Deep Brain Lab, Sound and Multimedia Department, Politechnika Gda\u0144sk",
-    "Contributor": "Lab contact email or institutional URL",
-    "Date": "2025-01-10",
-    "Type": "Dataset",
-    "Format": "C++/Arduino Script",
-    "Identifier": "To be assigned",
-    "Source": "",
-    "Language": "English",
-    "Rights": "CC-BY 4.0 (Open License)"
+  "Title": "Task Execution and Event-Logging Code for The Switchboard Test",
+  "Subject": "Behavioral task control; event timestamping",
+  "Format": "ZIP (source code)",
+  "Type": "Software",
+  "Source": "Experimental control and event-logging code used during The Switchboard Test experiments",
+  "Creator": "Deep Brain Lab, Multimedia Systems Department, Faculty of Electronics, Telecommunications and Informatics, Gdańsk University of Technology",
+  "Publisher": "Deep Brain Lab, Multimedia Systems Department, Gdańsk University of Technology",
+  "Contributor": "Deep Brain Lab, Multimedia Systems Department, Gdańsk University of Technology",
+  "Date": "2024-12-02",
+  "Identifier": "https://doi.org/10.6084/m9.figshare.31034230",
+  "Rights": "CC-BY 4.0",
+  "Language": "English",
+  "Relation": "Representative sample datasets hosted on Figshare"
 }
